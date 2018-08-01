@@ -1,4 +1,5 @@
-use_frameworks!
+source 'https://github.com/hmpff/HMPTools.git'    #个人私有仓库
+source 'https://github.com/CocoaPods/Specs.git'  #github仓库
 
 target 'HMPTools_Example' do
   pod 'HMPTools', :path => '../'
