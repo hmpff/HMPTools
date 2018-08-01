@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HMPTools (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HMPTools (from `../`)
+
+EXTERNAL SOURCES:
+  HMPTools:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HMPTools: bf8d519fe86ccf8b4a8834a55d1c985294abed12
+
+PODFILE CHECKSUM: ae7c55e88688350695c505c2a77d2367fe8765ab
+
+COCOAPODS: 1.4.0.beta.1

@@ -1,0 +1,22 @@
+{
+  "name": "HMPTools",
+  "version": "0.1.0",
+  "summary": "A short description of HMPTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/837596409@qq.com/HMPTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "837596409@qq.com": "837596409@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/837596409@qq.com/HMPTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HMPTools/Classes/**/*"
+}
